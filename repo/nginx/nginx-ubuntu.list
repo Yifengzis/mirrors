@@ -1,0 +1,4 @@
+# 稳定版本
+deb http://nginx.org/packages/ubuntu `lsb_release -cs` nginx
+# 主线版本
+#deb http://nginx.org/packages/mainline/ubuntu `lsb_release -cs` nginx
